@@ -10,6 +10,7 @@ openai
 langchain-anthropic
 
 # Google Gemini PaLm integration
+google
 langchain-google-genai
 google-generativeai
 
@@ -27,3 +28,5 @@ python-dotenv
 # machine learning utilities
 numpy
 scikit-learn
+
+sentence-transformers
