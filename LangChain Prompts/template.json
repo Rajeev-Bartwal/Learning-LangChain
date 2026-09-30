@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "level",
+        "quoestion",
+        "topic"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an intelligent AI tutor.\n\nThe Topic is:\n{topic}\n\nUser Level in the {topic} is:\n{level}\n\nUser Request's to :\n{quoestion}\n\nInstructions:\n- Understand the user's request.\n- Explain according to the user's level.\n- Give clear and accurate information.\n- Use simple examples when useful.\n- Structure the answer properly.\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
