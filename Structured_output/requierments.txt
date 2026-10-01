@@ -1,0 +1,9 @@
+langchain
+langchain-huggingface
+huggingface_hub
+pydantic
+python-dotenv
+
+
+fastapi
+uvicorn[standard]
