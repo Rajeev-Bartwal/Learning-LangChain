@@ -1,3 +1,4 @@
+pypdf
 langchain
 langchain-huggingface
 huggingface_hub
@@ -5,3 +6,4 @@ pydantic
 python-dotenv
 langchain-community
 langchain-groq
+langchain-text-splitters
